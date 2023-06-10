@@ -1,0 +1,33 @@
+.box {
+    margin: 20px;
+    background-color: #6d96a3;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+
+.cbut {
+    background-color: rgb(200, 105, 209);
+    border-radius: 3px;
+}
+
+.equal {
+    background-color: rgb(216, 173, 62);
+}
+
+.special {
+    background-color: hotpink;
+    border-radius: 2px;
+    color: azure;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.big {
+    background-color: darkcyan;
+}
+td{
+    background-color: whitesmoke;
+}
